@@ -1,0 +1,33 @@
+{
+  "name": "blog-app",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@editorjs/editorjs": "^2.30.7",
+    "@editorjs/header": "^2.8.8",
+    "@editorjs/list": "^2.0.2",
+    "@reduxjs/toolkit": "^2.5.0",
+    "axios": "^1.7.9",
+    "bootstrap": "^5.3.3",
+    "chart.js": "^4.4.7",
+    "editorjs-parser": "^1.5.3",
+    "js-cookie": "^3.0.5",
+    "preact": "^10.25.0",
+    "react-bootstrap": "^2.10.6",
+    "react-chartjs-2": "^5.3.0",
+    "react-hot-toast": "^2.4.1",
+    "react-icons": "^5.4.0",
+    "react-redux": "^9.2.0",
+    "react-router-dom": "^7.0.2"
+  },
+  "devDependencies": {
+    "@preact/preset-vite": "^2.9.1",
+    "vite": "^6.0.1"
+  }
+}
